@@ -1,3 +1,3 @@
-# kty0205.github.io
+# Vanilla JS Challenge Graduation Work
 
-https://kty0205.github.io/
+https://freecovid19.github.io/
