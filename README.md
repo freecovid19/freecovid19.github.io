@@ -1,2 +1,3 @@
-# Vanilla-JS-Challenge-Graduation-Work
-Vanilla JS Challenge Graduation Work
+# kty0205.github.io
+
+https://kty0205.github.io/

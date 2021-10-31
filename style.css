@@ -1,3 +1,71 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    overflow: hidden;
+}
+
 .hidden {
     display: none;
+}
+
+h1, h2, span{
+    color: #ffffff;
+}
+
+footer {
+    width: 100%;
+    height: 3%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+#quote {
+    text-align: center;
+    font-style: italic;
+}
+
+#greeting {
+    font-size: 75px;
+    text-align: center;
+    margin-top: 10%;
+}
+
+#clock {
+    text-align: center;
+    font-size: 100px;
+}
+
+#todo-form {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#todo-form input {
+    border: none;
+    background: transparent;
+    border-bottom: 2px solid black;
+    color:white;
+    width: 182px;
+    text-align: center;
+}
+
+#login-form {
+    text-align: center;
+    margin-top: 200px;
+}
+
+#login-form input {
+    border: none;
+    background: transparent;
+    border-bottom: 2px solid black;
+    width: 200px;
+    height: 20px;
+    text-align: center;
+}
+
+::placeholder {
+    color: white;
 }
