@@ -52,6 +52,14 @@ footer {
     text-align: center;
 }
 
+#todo-list {
+    text-align: center;
+    list-style: none;
+    margin: 3px;
+    padding: 2px;
+    vertical-align: middle;
+}
+
 #login-form {
     text-align: center;
     margin-top: 100px;
@@ -64,6 +72,13 @@ footer {
     width: 300px;
     height: 20px;
     text-align: center;
+}
+
+button {
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+    font-size: 19px;
+    color: white;
 }
 
 ::placeholder {
